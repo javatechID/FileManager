@@ -1,6 +1,6 @@
 # Simple File Manager
 
-![Simple File Manager](https://yourdomain.com/path/to/your/image.png)
+![Simple File Manager](https://i.ibb.co/fdnNS6P/filemanager.png)
 
 Simple File Manager adalah aplikasi berbasis web sederhana yang memungkinkan pengguna untuk mengelola file di server mereka. Dengan aplikasi ini, Anda dapat melakukan operasi seperti melihat, mengedit, menghapus, dan mengganti nama file.
 
