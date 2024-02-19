@@ -23,7 +23,6 @@ Simple File Manager adalah aplikasi berbasis web sederhana yang memungkinkan pen
 1. Pastikan server Anda telah terkonfigurasi untuk menjalankan PHP.
 2. Salin semua file ke direktori server Anda.
 3. Akses aplikasi melalui browser dengan mengunjungi alamat URL server Anda.
-4. pastikan anda membuat folder /files di direktory tempat anda meletakan file index.php
 ## Kontribusi
 
 Kontribusi selalu dipersilakan! Jika Anda ingin berkontribusi pada proyek ini, silakan buka *issue* untuk mengajukan saran atau laporan bug, atau kirimkan *pull request* dengan perubahan yang diusulkan.
